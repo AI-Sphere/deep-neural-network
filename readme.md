@@ -1,13 +1,14 @@
-# AI圈终身学习系列文集
+![公众号修饰图pure](https://aigroupz-1258285787.cos.ap-shanghai.myqcloud.com/blog/%E5%85%AC%E4%BC%97%E5%8F%B7%E4%BF%AE%E9%A5%B0%E5%9B%BEpure.jpg)
+
 #### AI圈是什么？
 
-![公众号修饰图pure](https://aigroupz-1258285787.cos.ap-shanghai.myqcloud.com/blog/%E5%85%AC%E4%BC%97%E5%8F%B7%E4%BF%AE%E9%A5%B0%E5%9B%BEpure.jpg)
 我们是一群通过数据竞赛认识的朋友，竞赛大佬们拿奖无数(不包括我)。比赛打累了，突然想做点情怀的事情。
 
 以前我们一直孤独的在学习，直到我们相互遇见。所以我们想改变孤独，提供一个温暖的大家庭。
 
 我们想提供一个平台一起集训学习编程、算法、数学、写博客、机器学习、深度学习，没有小白歧视，大家一起鼓励一起前进。
 
+#### 文集介绍
 
 这是本系列文集暂定要写的内容：
 
